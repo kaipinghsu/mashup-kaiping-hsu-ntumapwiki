@@ -17,7 +17,7 @@
       <td style="padding:20px; width:700px">
         <gm:map id="myMap" data="${myList}" control="large"
             infotemplate="myMapDetailsTemplate" width="700px" height="500px" 
-            lat="" lng="-12.6563" zoom="2" maptypes="true" create="true">
+            lat="25.195" lng="121.5373" zoom="12" maptypes="true" create="true">
           <gm:handleEvent src="myList"/>
          </gm:map>
       </td>
