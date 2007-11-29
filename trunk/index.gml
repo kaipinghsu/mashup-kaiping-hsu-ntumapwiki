@@ -1,4 +1,4 @@
-<gm:page title="Sample - Map Wiki" authenticate="false">
+<gm:page title="Sample - Map Wiki" authenticate="true">
 
   <!--
     The map wiki application demonstrates the the ability to use the 
