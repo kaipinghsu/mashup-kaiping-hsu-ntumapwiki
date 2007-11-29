@@ -1,4 +1,4 @@
-<gm:page title="臺大維基地圖" authenticate="true">
+<gm:page title="臺大維基地圖" authenticate="false">
 
   <!--
     Rewrite form GME Map Wiki
