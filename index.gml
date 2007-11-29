@@ -2,7 +2,7 @@
 
   <!--
     Rewrite form GME Map Wiki
-    @author: kphsu@ntu.edu.tw
+    @author: kaiping.hsu@gmail.com
     @date: 2007-11-29
   
     The map wiki application demonstrates the the ability to use the 
