@@ -1,16 +1,19 @@
-<gm:page title="Sample - Map Wiki" authenticate="true">
+<gm:page title="臺大維基地圖" authenticate="true">
 
   <!--
+    Rewrite form GME Map Wiki
+    @author: kphsu@ntu.edu.tw
+    @date: 2007-11-29
+  
     The map wiki application demonstrates the the ability to use the 
     map object to create wiki like experience for maps.
     @author: GME Team
   -->
 
   <div class="gm-app-header">
-    <h1>Map Wiki</h1>
-    Add a new location by clicking the Add pin button on the map.
-    Drag existing pins to move locations.
-  </div>
+    <h1>臺大維基地圖</h1>
+    大家一起來把這個地圖補完
+    </div>
 
   <table style="width:100%">
     <tr>
