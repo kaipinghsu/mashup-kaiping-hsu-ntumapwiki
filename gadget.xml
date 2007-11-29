@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <!-- You can modify this file to customize your gadget information. -->
+  <ModulePrefs title="臺大維基地圖"
+               title_url="http://ntumap.googlemashups.com/index.html"/>
+
+  <!-- For more information, see: -->
+  <!--   http://google.com/apis/gadgets/reference.html#Moduleprefs_Ref -->
+
+  <Content type="url" href="http://ntumap.googlemashups.com/index.html"/>
+</Module>
